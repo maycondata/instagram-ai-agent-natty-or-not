@@ -57,7 +57,7 @@ Como resultado prático, foi gerado um **post completo para Instagram**, incluin
 ### Imagem Gerada por IA
 A imagem abaixo foi criada utilizando uma ferramenta de IA generativa para ilustrar o conceito de conteúdo humano versus conteúdo gerado por inteligência artificial.
 
-![Post gerado por IA](resultado_instagram.png)
+![Post gerado por IA](resultado_instagram)
 
 ---
 
