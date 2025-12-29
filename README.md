@@ -55,7 +55,7 @@ Como resultado prático, foi gerado um **post completo para Instagram**, incluin
 #InteligenciaArtificial #IA #NattyOrFakeNatty #Tecnologia #Dados #Automacao #AIContent #MarketingDigital
 
 ### Imagem Gerada por IA
-A imagem abaixo foi criada utilizando uma ferramenta de IA generativa para ilustrar o conceito de conteúdo humano versus conteúdo gerado por inteligência artificial.
+A imagem abaixo foi criada utilizando uma ferramenta de IA generativa **Gemini Nano Banana** para ilustrar o conceito de conteúdo humano versus conteúdo gerado por inteligência artificial.
 
 ![Post gerado por IA](resultado_instagram.png)
 
