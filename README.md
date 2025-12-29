@@ -1,4 +1,4 @@
-# Natty ou Fake Natty? Agente de IA para Conteúdo no Instagram 🤖📸
+# Natty ou Fake Natty? Agente de IA para Conteúdo no Instagram
 
 ## Descrição
 Este projeto apresenta a criação de um **Agente de IA Generativa** focado na **automação da criação de conteúdo para Instagram**.
