@@ -1,5 +1,5 @@
 # Natty ou Fake Natty?  
-## Agente de IA para Geração de Conteúdo no Instagram 🤖📸
+## Agente de IA para Geração de Conteúdo no Instagram
 
 ## Descrição
 Este projeto apresenta a aplicação prática de **IA Generativa** na criação de conteúdo para Instagram, por meio da simulação de um **Agente de IA especializado em social media**.
@@ -12,7 +12,7 @@ Inspirado no desafio **“Natural ou Fake Natty? Como Vencer na Era das IAs Gene
 ## Tecnologias Utilizadas
 - IA Generativa **ChatGPT** para criação de legendas e ideias de conteúdo;
 - Engenharia de Prompt para definição do comportamento do agente;
-- Ferramentas de IA para geração de imagens (ex: Leonardo AI, DALL·E ou Canva AI);
+- Ferramentas de IA para geração de imagens **Gemini - Nano Banana** ;
 - **GitHub** para versionamento e apresentação do projeto.
 
 ---
